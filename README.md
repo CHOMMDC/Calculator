@@ -1,2 +1,2 @@
-# Calculator
+# MotorPH
 Calculator for Motor PH
